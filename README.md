@@ -23,3 +23,6 @@ Netflix System Design | YouTube System Design | System Design Interview Question
   1.take the file from Production House or User's Mobile device and upload it to S3.
   
   
+  <img width="1497" alt="Screenshot 2022-08-29 at 11 22 54 AM" src="https://user-images.githubusercontent.com/13814143/187132131-32618b6e-9f8d-4150-8d81-693089c7a108.png">
+
+  
