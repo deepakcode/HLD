@@ -28,6 +28,8 @@ Netflix System Design | YouTube System Design | System Design Interview Question
   
 Elastic search provide fuzzy search and spelling correction, type ahead like google search.. search can be backed by Elastic Search Service.
 
-Analystics
+****Analystics kafka->spark->Hadoop****
 
-kafka->spark->Hadoop
+Cassandra can be used for storing metadata of videos-
+
+Aggregation of video can be done via Apache Spark service.
